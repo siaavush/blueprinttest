@@ -10,11 +10,6 @@ blueprint:
     remote:
       name: Remote
       description: The remote that will control the lights
-      selector:
-        device:
-          integration: zha
-          manufacturer: 'IKEA of Sweden'
-          model: 'TRADFRI on/off switch'
     light:
       name: Light
       description: The lights that will be controlled
