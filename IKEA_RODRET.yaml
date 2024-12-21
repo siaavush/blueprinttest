@@ -1,5 +1,5 @@
 blueprint:
-  name: ZHA - IKEA Tradfri on/off switch
+  name: ZHA - IKEA RODRET on/off switch
   description: |
     "Control your light(s) with IKEA Tradfri on/off switch
     
